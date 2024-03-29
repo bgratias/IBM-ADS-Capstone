@@ -1,6 +1,10 @@
 # Build a Dashboard Application with Plotly Dash
 # https://www.coursera.org/learn/applied-data-science-capstone/ungradedLti/EtmJx/hands-on-lab-build-an-interactive-dashboard-with-ploty-dash
 
+# python3 -m pip install pandas dash
+# wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv"
+# python3 07-spacex_dash_app.py
+
 # Import required libraries
 import pandas as pd
 import dash
